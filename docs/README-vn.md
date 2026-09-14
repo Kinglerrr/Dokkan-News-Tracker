@@ -35,7 +35,7 @@ Vì tiện ích này đang ở dạng mã nguồn gốc (Unpacked), bạn sẽ c
 7. Hoàn tất! Tiện ích đã được thêm vào trình duyệt. Hãy nhấp vào biểu tượng mảnh ghép (Extensions) ở góc phải thanh địa chỉ và chọn **Ghim (Pin)** để tiện ích luôn hiển thị.
 
 ##  Hướng dẫn sử dụng
-
+![Dokkan News Tracker Screenshot](./assets/Extension.png)
 *   **Xem tin tức:** Nhấp vào biểu tượng của tiện ích để mở bảng tin tức. Bạn có thể nhấp vào bất kỳ bài báo nào để mở thẳng tab mới xem chi tiết.
 *   **Cài đặt thời gian:** Chuyển sang thẻ **Settings** trong giao diện để thay đổi khoảng thời gian hệ thống tự động quét ngầm (Khuyên dùng: 5 phút hoặc 15 phút).
 
