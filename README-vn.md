@@ -22,7 +22,7 @@ Dự án bao gồm các tệp tin chính sau:
 *   `popup.js`: Script xử lý logic lấy dữ liệu từ máy chủ và in lên giao diện bảng điều khiển.
 *   `icon.png`: Biểu tượng của tiện ích.
 
-## 🚀 Hướng dẫn cài đặt
+##  Hướng dẫn cài đặt
 
 Vì tiện ích này đang ở dạng mã nguồn gốc (Unpacked), bạn sẽ cài đặt nó thông qua **Chế độ dành cho nhà phát triển (Developer Mode)** của trình duyệt Google Chrome bằng các bước sau:
 
