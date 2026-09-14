@@ -1,11 +1,11 @@
 🌍 **Language / Ngôn ngữ:** [EN English](README.md) | [🇻🇳 Tiếng Việt](README-vn.md) 
 ---
 
-# 🐉 Dokkan News Tracker (Chrome Extension)
+#  Dokkan News Tracker (Chrome Extension)
 
 A lightweight Google Chrome extension that ensures you never miss the latest news from **Dokkan Battle**. The extension runs silently in the background and sends push notifications directly to your desktop whenever a new event drops!
 
-## ✨ Key Features
+##  Key Features
 
 *   **Real-time Updates:** Automatically fetches the latest news data from the web (English Version).
 *   **Mini Dashboard:** A clean, visually appealing quick-view interface right on your browser toolbar.
@@ -13,7 +13,7 @@ A lightweight Google Chrome extension that ensures you never miss the latest new
 *   **Flexible Customization:** Allows users to set the background auto-check interval (from 1 minute to 3 hours) to optimize performance and avoid connection blocks.
 *   **Optimized & Lightweight:** Processes JSON data blazingly fast with zero RAM bloat, smoothly bypassing CORS security barriers.
 
-## 📂 File Structure
+##  File Structure
 
 The project includes the following core files:
 *   `manifest.json`: The root configuration file (using the latest Manifest V3 standard).
@@ -22,7 +22,7 @@ The project includes the following core files:
 *   `popup.js`: The script that handles data fetching from the server and renders it on the dashboard.
 *   `icon.png`: The extension's icon.
 
-## 🚀 Installation Guide
+##  Installation Guide
 
 Since this extension is in its source code form (Unpacked), you will need to install it via Google Chrome's **Developer Mode** using the following steps:
 
@@ -34,7 +34,7 @@ Since this extension is in its source code form (Unpacked), you will need to ins
 6. A folder selection window will appear; choose the folder you created in Step 1.
 7. Done! The extension has been added to your browser. Click the puzzle piece icon (Extensions) on the right side of the address bar and select **Pin** to keep the extension visible.
 
-## 💡 How to Use
+##  How to Use
 
 *   **View News:** Click the extension icon to open the news dashboard. You can click on any article to open it directly in a new tab for more details.
 *   **Set Intervals:** Switch to the **Settings** tab in the interface to change the background auto-check interval (Recommended: 5 or 15 minutes).
