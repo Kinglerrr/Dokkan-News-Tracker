@@ -35,7 +35,7 @@ Since this extension is in its source code form (Unpacked), you will need to ins
 7. Done! The extension has been added to your browser. Click the puzzle piece icon (Extensions) on the right side of the address bar and select **Pin** to keep the extension visible.
 
 ##  How to Use
-
+![Dokkan News Tracker Screenshot](./docs/assets/Extension.png)
 *   **View News:** Click the extension icon to open the news dashboard. You can click on any article to open it directly in a new tab for more details.
 *   **Set Intervals:** Switch to the **Settings** tab in the interface to change the background auto-check interval (Recommended: 5 or 15 minutes).
 
