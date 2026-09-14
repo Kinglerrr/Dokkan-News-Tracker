@@ -1,11 +1,11 @@
-🌍 **Ngôn ngữ / Language:** [🇻🇳 Tiếng Việt](README.md) | [🇺🇸 English](README-en.md)
+ **Ngôn ngữ / Language:** [🇻🇳 Tiếng Việt](README.md) | [🇺🇸 English](README-en.md)
 ---
 
-# 🐉 Dokkan News Tracker (Chrome Extension)
+#  Dokkan News Tracker (Chrome Extension)
 
 Một tiện ích mở rộng gọn nhẹ dành cho Google Chrome giúp bạn không bao giờ bỏ lỡ bất kỳ tin tức mới nào từ **Dokkan Battle**. Tiện ích sẽ âm thầm chạy ngầm và gửi thông báo trực tiếp đến màn hình máy tính của bạn ngay khi có sự kiện mới!!
 
-## ✨ Tính năng nổi bật
+##  Tính năng nổi bật
 
 *   **Cập nhật thời gian thực:** Tự động lấy dữ liệu tin tức mới nhất từ trang web (Phiên bản Tiếng Anh).
 *   **Mini Dashboard:** Giao diện xem nhanh tin tức gọn gàng, đẹp mắt ngay trên thanh công cụ của trình duyệt.
@@ -13,7 +13,7 @@ Một tiện ích mở rộng gọn nhẹ dành cho Google Chrome giúp bạn kh
 *   **Tùy chỉnh linh hoạt:** Cho phép người dùng tự cài đặt thời gian kiểm tra ngầm (từ 1 phút đến 3 giờ) để tối ưu hóa hiệu suất và tránh bị trang web chặn kết nối.
 *   **Tối ưu và Nhẹ nhàng:** Xử lý dữ liệu JSON nhanh chóng, không tiêu tốn RAM, vượt qua các rào cản bảo mật CORS một cách mượt mà.
 
-## 📂 Cấu trúc thư mục
+##  Cấu trúc thư mục
 
 Dự án bao gồm các tệp tin chính sau:
 *   `manifest.json`: Tệp cấu hình gốc của tiện ích (Sử dụng chuẩn Manifest V3 mới nhất).
@@ -34,7 +34,7 @@ Vì tiện ích này đang ở dạng mã nguồn gốc (Unpacked), bạn sẽ c
 6. Cửa sổ chọn thư mục hiện ra, hãy chọn đúng thư mục chứa dự án mà bạn đã lưu ở Bước 1.
 7. Hoàn tất! Tiện ích đã được thêm vào trình duyệt. Hãy nhấp vào biểu tượng mảnh ghép (Extensions) ở góc phải thanh địa chỉ và chọn **Ghim (Pin)** để tiện ích luôn hiển thị.
 
-## 💡 Hướng dẫn sử dụng
+##  Hướng dẫn sử dụng
 
 *   **Xem tin tức:** Nhấp vào biểu tượng của tiện ích để mở bảng tin tức. Bạn có thể nhấp vào bất kỳ bài báo nào để mở thẳng tab mới xem chi tiết.
 *   **Cài đặt thời gian:** Chuyển sang thẻ **Settings** trong giao diện để thay đổi khoảng thời gian hệ thống tự động quét ngầm (Khuyên dùng: 5 phút hoặc 15 phút).
